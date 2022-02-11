@@ -503,6 +503,8 @@ img {
   background-position: center;  */
 }
 .main-title-homepage {
+  display: inline-block;
+  text-align: center;
   color: var(--main-bcg-color);
   margin-top: 200px;
 }
